@@ -734,7 +734,7 @@ You can learn more about building awesome ecommerce stores with Medusa; check ou
 
 > Finally You can check out a brief video demo of the web application [Here.](https://youtube.com/shorts/SDH1QOvIzFw?feature=share/)
 
-# Author :pen:
+# inspiration
 
 [Mustapha Aliyu Galadima](https://mgmustyportfolio-io.onrender.com/)
 
